@@ -14,5 +14,13 @@
         "width": 1724,
         "height": 1365,
         "sectors": "false"
+    },
+    "austria": {
+        "name": "Austria.png",
+        "x": 1589,
+        "y": -10680,
+        "width": 1546,
+        "height": 683,
+        "sectors": "false"
     }
 }
