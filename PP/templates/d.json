@@ -22,5 +22,13 @@
         "width": 1546,
         "height": 683,
         "sectors": "false"
+    },
+    "polonia": {
+        "name": "Polonia.png",
+        "x": 2390,
+        "y": -12685,
+        "width": 2330,
+        "height": 2206,
+        "sectors": "false"
     }
 }
