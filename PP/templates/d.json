@@ -1,27 +1,10 @@
-[
-    {
-        "name": "MLPP",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PP"
-    },
-    {
-        "name": "TEF",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/TheElderFallouts/bjstf/master/PP"
-    },
-    {
-        "name": "Roman Empire",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/coloratacirca/mapconfig/master/PP"
-    },
-    {
-        "name": "BosniaPPF",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/Catalyy/BosniaPPF/master/PP"
-    },
-    {
-        "name": "Others",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/Taggered/Pixels/main/Others/PP"
+{
+    "italy": {
+        "name": "italy.png",
+        "x": 1005,
+        "y": -10097,
+        "width": 2177,
+        "height": 2947,
+        "sectors": "false"
     }
-]
+}
