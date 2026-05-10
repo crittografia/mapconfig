@@ -6,5 +6,13 @@
         "width": 2736,
         "height": 3150,
         "sectors": "false"
+    },
+    "yugo": {
+        "name": "Yugoslavia.png",
+        "x": 2479,
+        "y": -9984,
+        "width": 1724,
+        "height": 1365,
+        "sectors": "false"
     }
 }
