@@ -23,12 +23,12 @@
         "height": 683,
         "sectors": "false"
     },
-    "polonia": {
-        "name": "Polonia.png",
-        "x": 2390,
-        "y": -12685,
-        "width": 2391,
-        "height": 2432,
+    "transilvania": {
+        "name": "Transilvania.png",
+        "x": 3982,
+        "y": -10300,
+        "width": 890,
+        "height": 754,
         "sectors": "false"
     }
 }
