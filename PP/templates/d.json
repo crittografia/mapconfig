@@ -30,5 +30,13 @@
         "width": 890,
         "height": 754,
         "sectors": "false"
+    },
+    "banat": {
+        "name": "Banat.png",
+        "x": 3852.
+        "y": -9811,
+        "width": 295,
+        "height": 435,
+        "sectors": "false"
     }
 }
