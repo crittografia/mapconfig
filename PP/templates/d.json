@@ -7,22 +7,6 @@
         "height": 3150,
         "sectors": "false"
     },
-    "yugo": {
-        "name": "Yugoslavia.png",
-        "x": 2342,
-        "y": -10049,
-        "width": 1724,
-        "height": 1365,
-        "sectors": "false"
-    },
-    "austria": {
-        "name": "Austria.png",
-        "x": 1589,
-        "y": -10680,
-        "width": 1546,
-        "height": 683,
-        "sectors": "false"
-    },
     "banat": {
         "name": "Banat.png",
         "x": 3852,
