@@ -7,12 +7,12 @@
         "height": 3150,
         "sectors": "false"
     },
-    "banat": {
-        "name": "Banat.png",
-        "x": 3852,
-        "y": -9811,
-        "width": 295,
-        "height": 435,
+    "greece": {
+        "name": "greece.png",
+        "x": 3334,
+        "y": -8928,
+        "width": 2134,
+        "height": 2069,
         "sectors": "false"
     }
 }
