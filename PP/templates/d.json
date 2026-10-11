@@ -14,5 +14,13 @@
         "width": 2134,
         "height": 2069,
         "sectors": "false"
+    },
+    "albania": {
+        "name": "albania.png",
+        "x": 3269,
+        "y": -9063,
+        "width": 698,
+        "height": 912,
+        "sectors": "false"
     }
 }
