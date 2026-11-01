@@ -22,5 +22,13 @@
         "width": 698,
         "height": 912,
         "sectors": "false"
+    },
+    "palestine": {
+        "name": "palestine.png",
+        "x": 5612,
+        "y": -6623,
+        "width": 913,
+        "height": 1239,
+        "sectors": "false"
     }
 }
