@@ -24,11 +24,11 @@
         "sectors": "false"
     },
     "palestine": {
-        "name": "sinkestine.png",
-        "x": 6003,
-        "y": -6622,
-        "width": 521,
-        "height": 862,
+        "name": "palestine.png",
+        "x": 5612,
+        "y": -6623,
+        "width": 913,
+        "height": 1239,
         "sectors": "false"
     },
     "iraq": {
