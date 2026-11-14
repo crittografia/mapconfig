@@ -38,5 +38,13 @@
         "width": 2856,
         "height": 2924,
         "sectors": "false"
+    },
+    "serbalb": {
+        "name": "serbalb.png",
+        "x": 3262,
+        "y": -9086,
+        "width": 554,
+        "height": 765,
+        "sectors": "false"
     }
 }
