@@ -41,10 +41,10 @@
     },
     "serbalb": {
         "name": "serbalb.png",
-        "x": 3262,
-        "y": -9086,
-        "width": 554,
-        "height": 765,
+        "x": 3428
+        "y": -8926,
+        "width": 338,
+        "height": 458,
         "sectors": "false"
     }
 }
